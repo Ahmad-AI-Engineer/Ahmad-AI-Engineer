@@ -23,7 +23,6 @@ I work across the development process, from solution design and implementation t
 | [Financial SQL Agent](https://github.com/Ahmad-AI-Engineer/financial-sql-agent) | Natural-language financial data analysis using LangChain and PostgreSQL |
 | [LangChain Financial Agent](https://github.com/Ahmad-AI-Engineer/langchain-financial-agent) | Financial AI agent with LLM tool calling |
 | [LensOptix ML Pipeline](https://github.com/Ahmad-AI-Engineer/lensoptix-ml-pipeline) | CatBoost predictive models and automated ML workflows |
-| [Urdu Named Entity Recognition](https://github.com/Ahmad-AI-Engineer/urdullm-ner) | Urdu NLP application for named entity extraction |
 | [AI Excel Analyst MCP](https://github.com/Ahmad-AI-Engineer/ai-excel-analyst-mcp) | AI-assisted Excel analysis with MCP-based integrations |
 | [Road Surface Analyzer](https://github.com/Ahmad-AI-Engineer/road-surface-analyzer) | Computer vision application for road surface analysis |
 
